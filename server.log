@@ -1,0 +1,30 @@
+[2025-12-03T13:28:59.396Z] 
+========== 通义千问 API 错误详情 ==========
+错误状态码: N/A
+错误状态文本: N/A
+错误响应数据: undefined
+错误消息: clutterList is not defined
+请求URL: https://dashscope.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation
+请求方法: POST
+===========================================
+
+[2025-12-03T13:29:07.772Z] 
+========== 通义千问 API 错误详情 ==========
+错误状态码: N/A
+错误状态文本: N/A
+错误响应数据: undefined
+错误消息: clutterList is not defined
+请求URL: https://dashscope.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation
+请求方法: POST
+===========================================
+
+[2025-12-03T13:29:10.230Z] 
+========== 通义千问 API 错误详情 ==========
+错误状态码: N/A
+错误状态文本: N/A
+错误响应数据: undefined
+错误消息: clutterList is not defined
+请求URL: https://dashscope.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation
+请求方法: POST
+===========================================
+
