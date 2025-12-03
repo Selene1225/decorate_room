@@ -35,7 +35,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/app-image-maker.git
+git clone https://github.com/Selene1225/app-image-maker.git
 cd app-image-maker
 ```
 
